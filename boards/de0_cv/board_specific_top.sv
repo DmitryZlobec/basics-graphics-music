@@ -1,7 +1,7 @@
 module board_specific_top
 # (
   parameter clk_mhz = 50,
-            w_key   = 2,
+            w_key   = 4,
             w_sw    = 9,  // One sw is used as a reset
             w_led   = 10,
             w_digit = 6,
